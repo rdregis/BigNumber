@@ -1,0 +1,23 @@
+Server Program executed: .\x64\Release\BNCalculatorServer.exe 0.0.0.0 11211
+Waiting for client to connect...
+Client connected.
+Bytes received: 15
+Server: Receive from client:(55+88)*(66/33)
+Bytes Sent: 35
+Bytes received: 23
+Server: Receive from client:(55+88)+(66/33) + (8*8)
+Bytes Sent: 43
+Bytes received: 24
+Server: Receive from client:(3 *(5+8))+(6/3) * (8/2)
+Bytes Sent: 43
+Bytes received: 7
+Server: Receive from client:181 / 4
+Bytes Sent: 29
+Bytes received: 6
+Server: Receive from client:77 % 0
+Bytes Sent: 28
+Bytes received: 203
+Server: Receive from client:12345678901234567890123456789012345678901234567890*12345678901234567890123456789012345678901234567890*12345678901234567890123456789012345678901234567890-12345678901234567890123456789012345678901234567890
+Bytes Sent: 368
+Bytes received: 0
+Connection closed0
